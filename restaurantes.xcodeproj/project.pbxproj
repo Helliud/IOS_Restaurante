@@ -17,7 +17,6 @@
 		3D063AA7233C123D00189CBA /* RestauranteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D063AA6233C123D00189CBA /* RestauranteController.swift */; };
 		3D063AA9233C136E00189CBA /* Restaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D063AA8233C136E00189CBA /* Restaurante.swift */; };
 		3D063AAB233C155600189CBA /* DetallesRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D063AAA233C155600189CBA /* DetallesRestaurante.swift */; };
-		3D063AAF233C170200189CBA /* modeloRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D063AAE233C170200189CBA /* modeloRestaurante.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		3D063AA6233C123D00189CBA /* RestauranteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestauranteController.swift; sourceTree = "<group>"; };
 		3D063AA8233C136E00189CBA /* Restaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurante.swift; sourceTree = "<group>"; };
 		3D063AAA233C155600189CBA /* DetallesRestaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesRestaurante.swift; sourceTree = "<group>"; };
-		3D063AAE233C170200189CBA /* modeloRestaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modeloRestaurante.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,7 +112,6 @@
 				3D063AA6233C123D00189CBA /* RestauranteController.swift */,
 				3D063AA8233C136E00189CBA /* Restaurante.swift */,
 				3D063AAA233C155600189CBA /* DetallesRestaurante.swift */,
-				3D063AAE233C170200189CBA /* modeloRestaurante.swift */,
 			);
 			path = restaurantes;
 			sourceTree = "<group>";
@@ -270,7 +267,6 @@
 			files = (
 				3D063AA7233C123D00189CBA /* RestauranteController.swift in Sources */,
 				3D063A7B233C0EFE00189CBA /* ViewController.swift in Sources */,
-				3D063AAF233C170200189CBA /* modeloRestaurante.swift in Sources */,
 				3D063AAB233C155600189CBA /* DetallesRestaurante.swift in Sources */,
 				3D063AA9233C136E00189CBA /* Restaurante.swift in Sources */,
 				3D063A79233C0EFE00189CBA /* AppDelegate.swift in Sources */,
